@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as c,a as e}from"./entry.a14fd1d9.js";const o={},n={class:"w-full h-screen flex justify-center"},a=e("div",{class:"flex -mt-60"},[e("h1",{class:"self-center text-7xl font-bold text-center text-slate-50"}," Welcome to my wall of art! CI/CD test 1! ")],-1),l=[a];function r(_,f){return c(),s("div",n,l)}const i=t(o,[["render",r]]);export{i as default};
